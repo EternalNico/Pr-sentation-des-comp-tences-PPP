@@ -5,7 +5,10 @@
 Pour illustrer cette compétence j'ai choisi de vous presenter l'application que nous avons cree en groupe à l'iut lors d'ne SAE :
 
 
-image::/images/image1.png
+image::/images/image1.png[ok]
+
+
+image::/images/image1.png[ok]
 
 
 Voici une image de l'application :
