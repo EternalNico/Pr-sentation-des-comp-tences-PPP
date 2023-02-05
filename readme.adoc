@@ -93,3 +93,9 @@ Pour vous illustrer cette troisième compétence, j'ai choisi de vous montrer un
 
 En voici une illustration : 
 
+image::/images/image3.png[Topologie et schématisation d'une architecture réseau]
+
+Cette application utilise ces outils/langages :
+
+* Cisco packet tracer
+* Connaissance sur le binaire 
