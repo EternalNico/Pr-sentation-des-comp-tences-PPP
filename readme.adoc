@@ -99,3 +99,17 @@ Cette application utilise ces outils/langages :
 
 * Cisco packet tracer
 * Connaissance sur le binaire 
+
+## Gérer des données de l’information.
+
+Concevoir, gérer, administrer et exploiter les données de l’entreprise et mettre à disposition toutes les informations pour un bon pilotage de l’entreprise.
+
+* en respectant les réglementations sur le respect de la vie privée et la protection des données personnelles
+
+* en respectant des enjeux économiques, sociétaux et écologiques de l’utilisation et du stockage des données, ainsi que des différentes infrastructures (data centers, cloud, etc.)
+
+* en s’appuyant sur des bases mathématiques solides (par exemple logique et statistiques)
+
+* en considérant les modèles de données utilisés dans les
+développements technologiques en assurant la cohérence et la qualité
+
