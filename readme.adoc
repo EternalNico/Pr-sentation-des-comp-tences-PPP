@@ -4,7 +4,7 @@
 # Presentation-des-competences-PPP
 
 
-## Competence 1 : Realiser un developpement d'application.
+## Realiser un developpement d'application.
 
 Développer — c’est-à-dire concevoir, coder, tester et intégrer — une solution informatique pour un client.
 
@@ -112,4 +112,13 @@ Concevoir, gérer, administrer et exploiter les données de l’entreprise et me
 
 * en considérant les modèles de données utilisés dans les
 développements technologiques en assurant la cohérence et la qualité
+
+En voici une image de code qui permet de montrer le traitement d'exception ce qui permet de grérer les cas d'erreurs et ainsi de sécurisé l'utilisation avec l'utilisateur
+
+image::/images/image4.png[Bout de code qui illustre les cas d'erreurs]
+
+Cette application utilise ces outils/langages :
+
+* PL/SQL
+* Oracle sql developer
 
