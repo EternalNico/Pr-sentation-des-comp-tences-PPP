@@ -55,7 +55,7 @@ usuels
 
 * en justifiant les choix et validant les résultats
 
-Pour montrer que j'ai acquis cette compétence, j'ai choisi de vous parler du TP N°4 du module programmes efficaces de semestre 3 à l'IUT de blagnac :
+Pour montrer que j'ai acquis cette compétence, j'ai choisi de vous parler du TP N°4 du module R3.02 programmes efficaces de semestre 3 à l'IUT de blagnac :
 
 En voici un bout de code : 
 
@@ -67,3 +67,29 @@ Le compte rendu de ce TP est également présent dans le dossier image pour que 
 Cette application utilise ces outils/langages :
 
 * Du java développé sur eclispe 
+
+## Administrer des systèmes informatiques communicants complexes.
+
+Installer, configurer, mettre à disposition, maintenir en conditions opérationnelles des infrastructures, des services et
+des réseaux et optimiser le système informatique d’une organisation.
+
+* en maîtrisant l’architecture des systèmes et des réseaux
+
+* en sécurisant le système d’information
+
+* en appliquant les obligations légales, les normes en vigueur
+et les bonnes pratiques
+
+* en mettant en œuvre les mesures correctives adaptées à la
+nature des incidents identifiés
+
+* en respectant les contraintes de performances, de coûts et
+d’efficacité énergétique
+
+* en assurant la pérennité des données et des logiciels
+
+
+Pour vous illustrer cette troisième compétence, j'ai choisi de vous montrer un des travaux pratiques que j'ai réalisés au semestre 3 dans le cadre du module R3.06 architecture des réseaux.
+
+En voici une illustration : 
+
