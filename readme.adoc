@@ -59,6 +59,11 @@ Pour montrer que j'ai acquis cette compétence, j'ai choisi de vous parler du TP
 
 En voici un bout de code : 
 
+image::/images/image2.png[Bout de code de l'application à optimiser]
 
 
+Le compte rendu de ce TP est également présent dans le dossier image pour que vous ayez un plus large aperçut sur le sujet.
 
+Cette application utilise ces outils/langages :
+
+* Du java développé sur eclispe 
