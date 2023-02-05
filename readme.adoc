@@ -1,8 +1,64 @@
+:toc:
+
+
 # Presentation-des-competences-PPP
+
 
 ## Competence 1 : Realiser un developpement d'application.
 
-Pour illustrer cette compétence j'ai choisi de vous presenter l'application que nous avons cree en groupe à l'iut lors d'ne SAE :
+Développer — c’est-à-dire concevoir, coder, tester et intégrer — une solution informatique pour un client.
+
+* en expliquant et communiquant l’avancée au client et aux
+utilisateurs
+
+* en précisant et en respectant les besoins décrits par le
+client
+
+* en appliquant les principes algorithmiques
+
+* en veillant à la qualité du code et à sa documentation
+
+* en respectant la législation, les normes professionnelles et
+les enjeux sociétaux
+
+* en choisissant les ressources techniques appropriées
+
+
+
+Pour illustrer cette compétence j'ai choisi de vous presenter l'application que nous avons crée en groupe à l'iut lors d'une SAE au cours de ma première année de BUT :
 
 
 image::/images/image1.png[Interface utilisateur]
+
+
+Voici donc une image qui illustre une des nombreuses interfaces présente dans l'application.
+
+
+Cette application utilise ces outils/langages :
+
+* Java FX pour l'interface
+* SGBD oracle SQL pour stocker les utilisateurs
+* Du java développé sur eclispe 
+
+
+## Optimiser des applications informatiques.
+
+Proposer des applications informatiques optimisées en fonction de critères spécifiques : temps d’exécution, précision,
+consommation de ressources
+
+* en formalisant et modélisant des situations complexes
+
+* en recensant les algorithmes et les structures de données
+usuels
+
+* en s’appuyant sur des schémas de raisonnement
+
+* en justifiant les choix et validant les résultats
+
+Pour montrer que j'ai acquis cette compétence, j'ai choisi de vous parler du TP N°4 du module programmes efficaces de semestre 3 à l'IUT de blagnac :
+
+En voici un bout de code : 
+
+
+
+
