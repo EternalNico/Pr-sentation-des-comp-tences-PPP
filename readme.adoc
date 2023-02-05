@@ -89,7 +89,7 @@ d’efficacité énergétique
 * en assurant la pérennité des données et des logiciels
 
 
-Pour vous illustrer cette troisième compétence, j'ai choisi de vous montrer un des travaux pratiques que j'ai réalisés au semestre 3 dans le cadre du module R3.06 architecture des réseaux.
+Pour vous illustrer cette troisième compétence, j'ai choisi de vous montrer un des travaux pratiques (ici le premier TP du module) que j'ai réalisés au semestre 3 dans le cadre du module R3.06 architecture des réseaux.
 
 En voici une illustration : 
 
