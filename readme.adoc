@@ -122,3 +122,28 @@ Cette application utilise ces outils/langages :
 * PL/SQL
 * Oracle sql developer
 
+## Conduire un projet
+
+Satisfaire les besoins des utilisateurs au regard de la chaîne de valeur du client, organiser et piloter un projet informatique avec des méthodes classiques ou agiles.
+
+* en identifiant les problématiques du client et les enjeux économiques de l’organisation
+
+* en adoptant une démarche proactive, créative et critique
+
+* en respectant les règles juridiques et les normes en vigueur
+
+* en communiquant efficacement avec les différents acteurs d’un projet
+
+* en sensibilisant à une gestion éthique, responsable, durable et interculturelle
+
+## Travailler dans une équipe informatique
+
+Acquérir, développer et exploiter les aptitudes nécessaires pour travailler efficacement dans une équipe informatique.
+
+* en inscrivant sa démarche au sein d’une équipe pluridisciplinaire
+
+* en accompagnant la mise en œuvre des évolutions informatiques
+
+* en veillant au respect des contraintes réglementaires et législatives
+
+* en développant une communication efficace et collaborative
