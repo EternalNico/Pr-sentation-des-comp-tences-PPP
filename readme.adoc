@@ -136,6 +136,10 @@ Satisfaire les besoins des utilisateurs au regard de la chaîne de valeur du cli
 
 * en sensibilisant à une gestion éthique, responsable, durable et interculturelle
 
+
+image::/images/image5.png[représentation du backlog produit definition des tâches et mise de degrès]
+
+
 ## Travailler dans une équipe informatique
 
 Acquérir, développer et exploiter les aptitudes nécessaires pour travailler efficacement dans une équipe informatique.
@@ -147,3 +151,5 @@ Acquérir, développer et exploiter les aptitudes nécessaires pour travailler e
 * en veillant au respect des contraintes réglementaires et législatives
 
 * en développant une communication efficace et collaborative
+
+image::/images/image6.png[Illustration d'un rapport technique]
